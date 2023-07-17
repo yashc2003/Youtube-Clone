@@ -1,0 +1,13 @@
+.card-img-top {
+    height:50px ;
+    width: 50px;
+    border-radius: 50%;
+}
+.channel-logo{
+    max-width: 10px;
+    margin-right: 10px;
+
+}
+.description{
+    margin-left: 80px;
+}
